@@ -32,7 +32,7 @@ The active states of all the buttons also work while tabbing through and touch.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://itstoko.github.io/FMC/order-summary-component-main/index.html)
+- Live Site URL: (https://itstoko.github.io/FMC/order-summary-component-main/index.html)
 
 ## My process
 
